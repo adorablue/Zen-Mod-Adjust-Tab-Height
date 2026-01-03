@@ -2,7 +2,6 @@
   "property": "mod.adjust_tab_height.tab_height",
   "label": "Tab Height (Pixels)",
   "type": "string",
-  "disabledOn": [],
   "placeholder": "4",
   "defaultValue": "4"
 }
