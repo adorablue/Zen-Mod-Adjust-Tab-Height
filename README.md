@@ -7,4 +7,5 @@ Adjusts tab height by modifying the margin in between tabs.
   * Input only the desired number of pixels as a number, do not include a unit.
 * This has not been thoroughly tested. It works on my computer, on Windows, with the mods I have and the other css modifications I have (which are minimal). Just making this for my girlfriend so it's easier for her to use and thought others could benefit from it too :)
 Left: Original. Right: Reduced tab height by a few pixels.
-![Unloaded tabs](images/shorter-tabs.png)
+
+![Shorter Tabs](images/shorter-tabs.png)
